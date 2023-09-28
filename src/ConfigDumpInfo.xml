@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Менеджеры" id="e328f534-a3f1-483e-93ca-65882284f488" configVersion="640d6a28a28f13428acf6215e7cda8ea00000000"/>
+		<Metadata name="Catalog.Склады" id="b7fb9df3-2452-4eb0-89b5-06f26bb73ad5" configVersion="1a02fab3b45e7b4c8c1d691e59899f5000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3f439ff7-9f76-4060-8a20-160eaca70460" configVersion="18338208ac9dac42a546eedb4318671500000000"/>
+		<Metadata name="DataProcessor.УправлениеПравамиМенеджеровНаСклады" id="21f7dad4-e8c5-4124-9ca4-3e49aaebdcd1" configVersion="b3991d620a131f42941836453938e48100000000"/>
+		<Metadata name="DataProcessor.УправлениеПравамиМенеджеровНаСклады.Form.Форма" id="3d13cb52-b1ee-4d06-8f60-8162a58ed3b7" configVersion="9d916adbc40db040ac5fad17421fad9500000000"/>
+		<Metadata name="DataProcessor.УправлениеПравамиМенеджеровНаСклады.Form.Форма.Form" id="3d13cb52-b1ee-4d06-8f60-8162a58ed3b7.0" configVersion="9e13bd9b33ff8c448b21275d83b5989800000000"/>
+		<Metadata name="InformationRegister.ПраваМенеджеровПоПродажамНаСклады" id="88f22dbc-3398-4367-a2ca-e6adcb2f84fd" configVersion="21e35f61ee3b1e40abe4b1231c5fb24e00000000">
+			<Metadata name="InformationRegister.ПраваМенеджеровПоПродажамНаСклады.Dimension.Склад" id="87cea488-fe4a-4ff4-ac8d-ba04c51d2dd1"/>
+			<Metadata name="InformationRegister.ПраваМенеджеровПоПродажамНаСклады.Dimension.Менеджер" id="9f9404fc-6e5e-4697-8bce-6550240fb7ef"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="872ec64b-40ab-4bb6-b76e-2680ee296473" configVersion="19e040253bae67458de7dc7b1fa2845c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
